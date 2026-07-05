@@ -30,6 +30,11 @@ Explore the fully interactive Power BI dashboard here:
 
 [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWU5ZDU1MmItYTUwMy00YWYzLTg4MDktYWMyOTgyODcxOGVmIiwidCI6IjQzYTQ3YmQxLWI1MmQtNDZkMy05NmI3LTQwOTk0ZTI5YjAyNyJ9)
 
+
+
+![Executive Summary Dashboard](executive-summary-dashboard.png)
+
+
 ## Dashboard Features
 
 ### Executive KPI Summary
