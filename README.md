@@ -17,13 +17,6 @@ This repository contains two Power BI dashboards developed to demonstrate execut
    - Executive KPI reporting
 
 ---
-
-## Interview Project for Chioma Agbai
-
-🔗 **Live Dashboard:** [View Dashboard](YOUR_LINK)
-
-## NRG ESG Executive Dashboard
-
 ## Interview Project for Chioma Agbai 
 
 🔗 **Live Dashboard:** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODUwNDUzYTctZDNiMS00Njg2LWI0NzMtMmFlNzYwNGNiZDVmIiwidCI6IjQzYTQ3YmQxLWI1MmQtNDZkMy05NmI3LTQwOTk0ZTI5YjAyNyJ9)
