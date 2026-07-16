@@ -1,3 +1,8 @@
+# Interview Project for Chioma Agbai 
+
+🔗 **Live Dashboard:** [View Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODUwNDUzYTctZDNiMS00Njg2LWI0NzMtMmFlNzYwNGNiZDVmIiwidCI6IjQzYTQ3YmQxLWI1MmQtNDZkMy05NmI3LTQwOTk0ZTI5YjAyNyJ9)
+
+
 # NRG ESG Executive Dashboard
 
 An executive-level ESG analytics dashboard built in Power BI using publicly available NRG Energy sustainability data to support leadership decision making around safety, environmental performance, and operational efficiency.
