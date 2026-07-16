@@ -1,20 +1,28 @@
 # NRG Analytics Portfolio 
 
-This repository contains two Power BI dashboards developed to demonstrate executive reporting, operational analytics, and safety performance insights:
+This repository contains two Power BI dashboards developed to demonstrate executive reporting, operational analytics, and safety performance insights.
 
-1. Safety Performance Dashboard (Interview Project)
+## Projects
 
--Incident trends
--Root cause analysis
--OSHA metrics
--Executive recommendations
--Automation opportunities
+1. **Safety Performance Dashboard (Interview Project)**
+   - Incident trend analysis
+   - Root cause analysis
+   - OSHA metrics and KPIs
+   - Executive recommendations
+   - Automation opportunities
 
-1. Executive ESG Dashboard
+2. **Executive ESG Dashboard**
+   - Sustainability metrics
+   - Emissions reporting
+   - Executive KPI reporting
 
--Sustainability metrics
--Emissions
--Executive KPI reporting
+---
+
+## Interview Project for Chioma Agbai
+
+🔗 **Live Dashboard:** [View Dashboard](YOUR_LINK)
+
+## NRG ESG Executive Dashboard
 
 ## Interview Project for Chioma Agbai 
 
